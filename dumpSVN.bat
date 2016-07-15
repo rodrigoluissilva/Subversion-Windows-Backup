@@ -3,9 +3,9 @@
 :: Dump the changes from Subversion to a directory
 ::
 :: Author: Rodrigo Luis Silva
-
 ::
 
+:: Set the username and password to access you repository
 SET SVNUSER=backup
 SET SVNPASS=randompassword
 
